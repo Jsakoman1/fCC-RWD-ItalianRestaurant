@@ -1,0 +1,86 @@
+body {
+    background-image: url(https://media.istockphoto.com/id/1160720443/vector/abstract-simple-geometric-vector-seamless-pattern-with-gold-line-texture-on-white-background.jpg?s=612x612&w=0&k=20&c=_kgBISj1Wio4LTRdBFN3IttmunACCl1-T5VKdurvb68=);
+    font-family: sans-serif;
+    padding: 20px;
+}
+.menu {
+    width: 70%;
+    background-color: burlywood;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px;
+}
+
+h1, h2 {
+    font-family: Impact;
+}
+h1, h2, p {
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    color: brown;
+    border: brown;
+    border-width: 2px;
+    border-style:dotted;
+    border-radius: 10px;
+
+
+}
+
+.moto {
+    font-style: italic;
+    margin-bottom: -20px;
+}
+
+hr {
+    height: 2px;
+    background-color: brown;
+    border-color: brown;
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.item p {
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 15px;
+}
+
+.meal, .dessert {
+    text-align: left;
+    width: 70%;
+}
+
+.price {
+    text-align: right;
+    width: 25%;
+}
+
+a {
+    color: brown;
+}
+
+a:hover {
+    color:black;
+}
+
+footer {
+    font-size: 14px;
+    border: brown;
+    border-style: dotted;
+}
